@@ -35,6 +35,7 @@ Honors and Awards
 * Second Prize, 17th National College Student Information Security Contest (Northeast Division)
 * Second Prize, 16th Jilin Province Collegiate Programming Contest
 * Working...
+
 Skills
 ======
 * Languages: C/C++, Python, Assembly, LaTeX
